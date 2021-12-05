@@ -1,2 +1,2 @@
 # Heart_Attack_Prediction
-Heart attack prediction using logistic regression model
+Creating a model using Logistic Regression to predict whether or not a person gets a heart attack based on the data. 
